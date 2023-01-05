@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-repeat: no-repeat;
+    background-color: #888;
+    background-image: url('../style/images/donation12.png');
+    background-position: ;
+    height: 600px;
+
+}
+.c1-head{
+    text-align: center;
+    /* margin-top: 100px; */
+    padding: 150px 45px 0px;
+    color: white;
+}
+
+.c2-para{
+   
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+
+.c3-button{
+    font-size: 25px;
+    font-weight: 750px;
+    border: none;
+    height: 60px;
+    padding: 18px 45px;
+    background-color: red;
+    margin: 50px 600px;
+}
+/* .section{
+        .background-image: url(../style/images/donation12.png); 
+} */
+
+
+/* donate page */
+.title{
+    text-align: center;
+    padding: 30px 15px;
+    font-size: xx-large;
+}
+.sub-title{
+    text-align: center;
+}
+/* .uline{
+    text-align: center;
+    display: flex;
+    padding-right: 500px;
+
+} */
+nav ul {
+    display: flex;
+    /* align-items: center; */
+    /* text-align: center; */
+    margin-left: 150px;
+    margin-top: 25px;
+   
+}
+
+nav li {
+    list-style: none;
+    margin-left: 100px;
+    background-color: aqua;
+    padding: 15px 25px;
+    
+   
+}
+
+.foot{
+    text-align: center;
+    padding-top: 20px;
+}
+.btn{
+    font-size: 15px;
+    font-weight: 750px;
+    border: none;
+    height: 60px;
+    padding: 15px 45px;
+    background-color: red;
+    margin: 50px 600px;
+}
