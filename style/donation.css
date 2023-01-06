@@ -62,19 +62,31 @@ nav ul {
    
 }
 
-nav li {
+.button{
     list-style: none;
-    margin-left: 60px;
-    background-color: aqua;
-    padding: 15px 25px;
-    
-   
+    margin: 20px 0px 20px 400px;
+    /* background-color: aqua; */
+    padding-top: 20px;
+    /* padding-left: 150px; */
+    padding-bottom: 20px;
+    padding-right: 50px;
+    height: 50px;
+}
+.button-1{
+    height: 50px;
+    margin-left: 50px;
+    padding: 20px 30px 30px 20px;
 }
 
 .foot{
     text-align: center;
     padding-top: 20px;
 }
+.hori{
+    margin: 5px 600px 15px 600px;
+     /* margin-left: 600px;
+    margin-right: 600px; */
+} 
 .btn{
     font-size: 15px;
     font-weight: 750px;
@@ -194,3 +206,64 @@ nav li {
 
   }
 
+  /* section 4 */
+  .sec{
+    background-color: aqua;
+  }
+  .second-last{
+    margin: 30px 100px 30px 100px;
+    align-items: center;
+    text-align: center;
+   
+  }
+
+.titles{
+    margin-bottom: 15px;
+}
+
+.sub-titles{
+ 
+}
+
+.email{
+    display: flex;
+    margin: 10px 300px 50px 300px; 
+    background-color: gray;
+    /* height: 150px; */
+    height: 150px;
+
+ 
+}
+input{
+   margin-left: 30px;
+    height: 30px;
+
+}
+.sub{
+    border: none;
+    margin-top: 40px;
+    border-radius: 5px;
+    font-size: 40px;
+    font-weight: 700;
+    background-color: tomato;
+    padding-left: 5px;
+    margin-left: 5px;
+
+}
+
+/* section 5 */
+
+.foot{
+    text-align: center;
+    background-color: black;
+    height: 100px;
+}
+.humba{
+    color: red;
+}
+.gon{
+    color: white;
+    margin-top: 10px ;
+    margin-bottom: ;
+    font-size: 10px;
+}
